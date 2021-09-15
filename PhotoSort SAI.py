@@ -2,7 +2,7 @@ from tkinter import *
 from srt_photos_lgc import SP_logic
 
 
-
+# 
 class Sorting_app(Tk):
 
 
